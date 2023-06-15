@@ -1,0 +1,34 @@
+.demo{
+    color: white;
+    background: black;
+    width: 100%;
+    height: 420px;
+}
+
+.container{
+    position: relative;
+    width: 350px;
+    margin: auto;
+}
+
+#hour_style{
+    position: absolute;
+    left: 10px;
+    top: 10px;
+}
+
+
+#minute_style{
+    position: absolute;
+    left: 60px;
+    top: 60px;
+}
+
+
+
+
+#second_style{
+    position: absolute;
+    left: 110px;
+    top: 110px;
+}
